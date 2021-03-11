@@ -1,3 +1,5 @@
+# lower left triangle
+
 print("enter the number")
 n = int(input())
 
